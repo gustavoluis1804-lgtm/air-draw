@@ -1,0 +1,296 @@
+
+F:\AirDraw\src\components\airdraw\Scene3D.tsx
+  1074:6  warning  React Hook useEffect has missing dependencies: 'inflation' and 'mode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+F:\AirDraw\src\components\ui\badge.tsx
+  37:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\components\ui\button.tsx
+  63:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\components\ui\form.tsx
+  171:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\components\ui\navigation-menu.tsx
+  119:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\components\ui\sidebar.tsx
+  778:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\components\ui\toggle.tsx
+  43:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+F:\AirDraw\src\lib\airdraw\ai-generator.ts
+   45:20  error  Replace `cx:·number,·cy:·number,·r:·number,·start:·number,·end:·number,·steps·=·24` with `⏎··cx:·number,⏎··cy:·number,⏎··r:·number,⏎··start:·number,⏎··end:·number,⏎··steps·=·24,⏎`                                                                                                                                                                              prettier/prettier
+   55:23  error  Replace `p0:·Point,·p1:·Point,·p2:·Point,·p3:·Point,·steps·=·24` with `⏎··p0:·Point,⏎··p1:·Point,⏎··p2:·Point,⏎··p3:·Point,⏎··steps·=·24,⏎`                                                                                                                                                                                                                      prettier/prettier
+   59:9   error  Replace `·mt·*·mt·*·mt·*·p0.x·+·3·*·mt·*·mt·*·t·*·p1.x·+·3·*·mt·*·t·*·t·*·p2.x·+` with `⏎········mt·*·mt·*·mt·*·p0.x·+⏎········3·*·mt·*·mt·*·t·*·p1.x·+⏎········3·*·mt·*·t·*·t·*·p2.x·+⏎·······`                                                                                                                                                                 prettier/prettier
+   60:9   error  Replace `·mt·*·mt·*·mt·*·p0.y·+·3·*·mt·*·mt·*·t·*·p1.y·+·3·*·mt·*·t·*·t·*·p2.y·+` with `⏎········mt·*·mt·*·mt·*·p0.y·+⏎········3·*·mt·*·mt·*·t·*·p1.y·+⏎········3·*·mt·*·t·*·t·*·p2.y·+⏎·······`                                                                                                                                                                 prettier/prettier
+   72:18  error  Replace `13·*·Math.cos(a)·-·5·*·Math.cos(2·*·a)·-·2·*·Math.cos(3·*·a)·-·Math.cos(4·*·a)` with `⏎······13·*·Math.cos(a)·-⏎······5·*·Math.cos(2·*·a)·-⏎······2·*·Math.cos(3·*·a)·-⏎······Math.cos(4·*·a)⏎····`                                                                                                                                                     prettier/prettier
+   82:18  error  Replace `13·*·Math.cos(a)·-·5·*·Math.cos(2·*·a)·-·2·*·Math.cos(3·*·a)·-·Math.cos(4·*·a)` with `⏎······13·*·Math.cos(a)·-⏎······5·*·Math.cos(2·*·a)·-⏎······2·*·Math.cos(3·*·a)·-⏎······Math.cos(4·*·a)⏎····`                                                                                                                                                     prettier/prettier
+   90:34  error  Replace `{·x:·0.35,·y:·0.45·},·{·x:·0.2,·y:·0.3·},·{·x:·0.12,·y:·0.4·},·{·x:·0.18,·y:·0.52·}` with `⏎····{·x:·0.35,·y:·0.45·},⏎····{·x:·0.2,·y:·0.3·},⏎····{·x:·0.12,·y:·0.4·},⏎····{·x:·0.18,·y:·0.52·},⏎··`                                                                                                                                                    prettier/prettier
+   91:34  error  Replace `{·x:·0.32,·y:·0.5·},·{·x:·0.16,·y:·0.42·},·{·x:·0.1,·y:·0.55·},·{·x:·0.22,·y:·0.6·}` with `⏎····{·x:·0.32,·y:·0.5·},⏎····{·x:·0.16,·y:·0.42·},⏎····{·x:·0.1,·y:·0.55·},⏎····{·x:·0.22,·y:·0.6·},⏎··`                                                                                                                                                    prettier/prettier
+   94:35  error  Replace `{·x:·0.65,·y:·0.45·},·{·x:·0.8,·y:·0.3·},·{·x:·0.88,·y:·0.4·},·{·x:·0.82,·y:·0.52·}` with `⏎····{·x:·0.65,·y:·0.45·},⏎····{·x:·0.8,·y:·0.3·},⏎····{·x:·0.88,·y:·0.4·},⏎····{·x:·0.82,·y:·0.52·},⏎··`                                                                                                                                                    prettier/prettier
+   95:35  error  Replace `{·x:·0.68,·y:·0.5·},·{·x:·0.84,·y:·0.42·},·{·x:·0.9,·y:·0.55·},·{·x:·0.78,·y:·0.6·}` with `⏎····{·x:·0.68,·y:·0.5·},⏎····{·x:·0.84,·y:·0.42·},⏎····{·x:·0.9,·y:·0.55·},⏎····{·x:·0.78,·y:·0.6·},⏎··`                                                                                                                                                    prettier/prettier
+  111:20  error  Replace `{·x:·0.38,·y:·0.3·},·{·x:·0.32,·y:·0.16·},·{·x:·0.45,·y:·0.26·}` with `⏎····{·x:·0.38,·y:·0.3·},⏎····{·x:·0.32,·y:·0.16·},⏎····{·x:·0.45,·y:·0.26·},⏎··`                                                                                                                                                                                                prettier/prettier
+  113:21  error  Replace `{·x:·0.55,·y:·0.26·},·{·x:·0.68,·y:·0.16·},·{·x:·0.62,·y:·0.3·}` with `⏎····{·x:·0.55,·y:·0.26·},⏎····{·x:·0.68,·y:·0.16·},⏎····{·x:·0.62,·y:·0.3·},⏎··`                                                                                                                                                                                                prettier/prettier
+  118:17  error  Replace `{·x:·0.48,·y:·0.46·},·{·x:·0.52,·y:·0.46·},·{·x:·0.5,·y:·0.49·},·{·x:·0.48,·y:·0.46·}` with `⏎····{·x:·0.48,·y:·0.46·},⏎····{·x:·0.52,·y:·0.46·},⏎····{·x:·0.5,·y:·0.49·},⏎····{·x:·0.48,·y:·0.46·},⏎··`                                                                                                                                                prettier/prettier
+  122:16  error  Replace `{·x:·0.38,·y:·0.47·},·{·x:·0.2,·y:·0.44·}` with `⏎····{·x:·0.38,·y:·0.47·},⏎····{·x:·0.2,·y:·0.44·},⏎··`                                                                                                                                                                                                                                                prettier/prettier
+  123:16  error  Replace `{·x:·0.38,·y:·0.5·},·{·x:·0.18,·y:·0.52·}` with `⏎····{·x:·0.38,·y:·0.5·},⏎····{·x:·0.18,·y:·0.52·},⏎··`                                                                                                                                                                                                                                                prettier/prettier
+  124:16  error  Replace `{·x:·0.62,·y:·0.47·},·{·x:·0.8,·y:·0.44·}` with `⏎····{·x:·0.62,·y:·0.47·},⏎····{·x:·0.8,·y:·0.44·},⏎··`                                                                                                                                                                                                                                                prettier/prettier
+  125:16  error  Replace `{·x:·0.62,·y:·0.5·},·{·x:·0.82,·y:·0.52·}` with `⏎····{·x:·0.62,·y:·0.5·},⏎····{·x:·0.82,·y:·0.52·},⏎··`                                                                                                                                                                                                                                                prettier/prettier
+  127:29  error  Replace `{·x:·0.38,·y:·0.58·},·{·x:·0.32,·y:·0.78·},·{·x:·0.68,·y:·0.78·},·{·x:·0.62,·y:·0.58·}` with `⏎····{·x:·0.38,·y:·0.58·},⏎····{·x:·0.32,·y:·0.78·},⏎····{·x:·0.68,·y:·0.78·},⏎····{·x:·0.62,·y:·0.58·},⏎··`                                                                                                                                              prettier/prettier
+  129:29  error  Replace `{·x:·0.65,·y:·0.76·},·{·x:·0.85,·y:·0.75·},·{·x:·0.88,·y:·0.6·},·{·x:·0.8,·y:·0.58·}` with `⏎····{·x:·0.65,·y:·0.76·},⏎····{·x:·0.85,·y:·0.75·},⏎····{·x:·0.88,·y:·0.6·},⏎····{·x:·0.8,·y:·0.58·},⏎··`                                                                                                                                                  prettier/prettier
+  151:21  error  Replace `{·x:·0.5,·y:·0.12·},·{·x:·0.5,·y:·0.65·}` with `⏎····{·x:·0.5,·y:·0.12·},⏎····{·x:·0.5,·y:·0.65·},⏎··`                                                                                                                                                                                                                                                  prettier/prettier
+  153:19  error  Replace `{·x:·0.5,·y:·0.12·},·{·x:·0.46,·y:·0.18·},·{·x:·0.47,·y:·0.65·}` with `⏎····{·x:·0.5,·y:·0.12·},⏎····{·x:·0.46,·y:·0.18·},⏎····{·x:·0.47,·y:·0.65·},⏎··`                                                                                                                                                                                                prettier/prettier
+  155:19  error  Replace `{·x:·0.5,·y:·0.12·},·{·x:·0.54,·y:·0.18·},·{·x:·0.53,·y:·0.65·}` with `⏎····{·x:·0.5,·y:·0.12·},⏎····{·x:·0.54,·y:·0.18·},⏎····{·x:·0.53,·y:·0.65·},⏎··`                                                                                                                                                                                                prettier/prettier
+  157:18  error  Replace `{·x:·0.32,·y:·0.66·},·{·x:·0.68,·y:·0.66·},·{·x:·0.65,·y:·0.69·},·{·x:·0.35,·y:·0.69·},·{·x:·0.32,·y:·0.66·}` with `⏎····{·x:·0.32,·y:·0.66·},⏎····{·x:·0.68,·y:·0.66·},⏎····{·x:·0.65,·y:·0.69·},⏎····{·x:·0.35,·y:·0.69·},⏎····{·x:·0.32,·y:·0.66·},⏎··`                                                                                              prettier/prettier
+  159:20  error  Replace `{·x:·0.48,·y:·0.69·},·{·x:·0.48,·y:·0.82·}` with `⏎····{·x:·0.48,·y:·0.69·},⏎····{·x:·0.48,·y:·0.82·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  160:20  error  Replace `{·x:·0.52,·y:·0.69·},·{·x:·0.52,·y:·0.82·}` with `⏎····{·x:·0.52,·y:·0.69·},⏎····{·x:·0.52,·y:·0.82·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  164:30  error  Replace `{·x:·0.42,·y:·0.3·},·{·x:·0.4,·y:·0.4·},·{·x:·0.43,·y:·0.5·},·{·x:·0.41,·y:·0.6·}` with `⏎····{·x:·0.42,·y:·0.3·},⏎····{·x:·0.4,·y:·0.4·},⏎····{·x:·0.43,·y:·0.5·},⏎····{·x:·0.41,·y:·0.6·},⏎··`                                                                                                                                                        prettier/prettier
+  165:30  error  Replace `{·x:·0.58,·y:·0.3·},·{·x:·0.6,·y:·0.4·},·{·x:·0.57,·y:·0.5·},·{·x:·0.59,·y:·0.6·}` with `⏎····{·x:·0.58,·y:·0.3·},⏎····{·x:·0.6,·y:·0.4·},⏎····{·x:·0.57,·y:·0.5·},⏎····{·x:·0.59,·y:·0.6·},⏎··`                                                                                                                                                        prettier/prettier
+  182:29  error  Replace `{·x:·0.5,·y:·0.5·},·{·x:·0.52,·y:·0.7·},·{·x:·0.48,·y:·0.85·},·{·x:·0.5,·y:·0.92·}` with `⏎····{·x:·0.5,·y:·0.5·},⏎····{·x:·0.52,·y:·0.7·},⏎····{·x:·0.48,·y:·0.85·},⏎····{·x:·0.5,·y:·0.92·},⏎··`                                                                                                                                                      prettier/prettier
+  184:30  error  Replace `{·x:·0.51,·y:·0.72·},·{·x:·0.38,·y:·0.65·},·{·x:·0.32,·y:·0.72·},·{·x:·0.5,·y:·0.76·}` with `⏎····{·x:·0.51,·y:·0.72·},⏎····{·x:·0.38,·y:·0.65·},⏎····{·x:·0.32,·y:·0.72·},⏎····{·x:·0.5,·y:·0.76·},⏎··`                                                                                                                                                prettier/prettier
+  185:30  error  Replace `{·x:·0.49,·y:·0.78·},·{·x:·0.62,·y:·0.72·},·{·x:·0.68,·y:·0.8·},·{·x:·0.5,·y:·0.83·}` with `⏎····{·x:·0.49,·y:·0.78·},⏎····{·x:·0.62,·y:·0.72·},⏎····{·x:·0.68,·y:·0.8·},⏎····{·x:·0.5,·y:·0.83·},⏎··`                                                                                                                                                  prettier/prettier
+  192:24  error  Replace `"#ff0077",·"#ff00aa",·"#ff0077",·"#ff00aa",·"#ff0077",·"#ff00aa"` with `⏎····"#ff0077",⏎····"#ff00aa",⏎····"#ff0077",⏎····"#ff00aa",⏎····"#ff0077",⏎····"#ff00aa",⏎··`                                                                                                                                                                                  prettier/prettier
+  212:29  error  Replace `{·x:·0.15,·y:·0.6·},·{·x:·0.28,·y:·0.52·},·{·x:·0.42,·y:·0.38·},·{·x:·0.65,·y:·0.38·}` with `⏎····{·x:·0.15,·y:·0.6·},⏎····{·x:·0.28,·y:·0.52·},⏎····{·x:·0.42,·y:·0.38·},⏎····{·x:·0.65,·y:·0.38·},⏎··`                                                                                                                                                prettier/prettier
+  213:35  error  Replace `{·x:·0.65,·y:·0.38·},·{·x:·0.78,·y:·0.5·},·{·x:·0.88,·y:·0.56·},·{·x:·0.9,·y:·0.62·}` with `⏎····{·x:·0.65,·y:·0.38·},⏎····{·x:·0.78,·y:·0.5·},⏎····{·x:·0.88,·y:·0.56·},⏎····{·x:·0.9,·y:·0.62·},⏎··`                                                                                                                                                  prettier/prettier
+  214:22  error  Replace `{·x:·0.9,·y:·0.62·},·{·x:·0.82,·y:·0.62·},·{·x:·0.68,·y:·0.62·},·{·x:·0.38,·y:·0.62·},·{·x:·0.24,·y:·0.62·},·{·x:·0.15,·y:·0.62·},·{·x:·0.15,·y:·0.6·}` with `⏎····{·x:·0.9,·y:·0.62·},⏎····{·x:·0.82,·y:·0.62·},⏎····{·x:·0.68,·y:·0.62·},⏎····{·x:·0.38,·y:·0.62·},⏎····{·x:·0.24,·y:·0.62·},⏎····{·x:·0.15,·y:·0.62·},⏎····{·x:·0.15,·y:·0.6·},⏎··`  prettier/prettier
+  223:35  error  Replace `{·x:·0.44,·y:·0.41·},·{·x:·0.54,·y:·0.41·},·{·x:·0.63,·y:·0.41·},·{·x:·0.72,·y:·0.5·}` with `⏎····{·x:·0.44,·y:·0.41·},⏎····{·x:·0.54,·y:·0.41·},⏎····{·x:·0.63,·y:·0.41·},⏎····{·x:·0.72,·y:·0.5·},⏎··`                                                                                                                                                prettier/prettier
+  225:20  error  Replace `{·x:·0.85,·y:·0.54·},·{·x:·0.92,·y:·0.5·},·{·x:·0.93,·y:·0.53·}` with `⏎····{·x:·0.85,·y:·0.54·},⏎····{·x:·0.92,·y:·0.5·},⏎····{·x:·0.93,·y:·0.53·},⏎··`                                                                                                                                                                                                prettier/prettier
+  242:29  error  Replace `{·x:·0.5,·y:·0.35·},·{·x:·0.5,·y:·0.45·},·{·x:·0.5,·y:·0.6·},·{·x:·0.5,·y:·0.7·}` with `⏎····{·x:·0.5,·y:·0.35·},⏎····{·x:·0.5,·y:·0.45·},⏎····{·x:·0.5,·y:·0.6·},⏎····{·x:·0.5,·y:·0.7·},⏎··`                                                                                                                                                          prettier/prettier
+  245:29  error  Replace `{·x:·0.49,·y:·0.3·},·{·x:·0.44,·y:·0.22·},·{·x:·0.4,·y:·0.2·},·{·x:·0.38,·y:·0.22·}` with `⏎····{·x:·0.49,·y:·0.3·},⏎····{·x:·0.44,·y:·0.22·},⏎····{·x:·0.4,·y:·0.2·},⏎····{·x:·0.38,·y:·0.22·},⏎··`                                                                                                                                                    prettier/prettier
+  246:29  error  Replace `{·x:·0.51,·y:·0.3·},·{·x:·0.56,·y:·0.22·},·{·x:·0.6,·y:·0.2·},·{·x:·0.62,·y:·0.22·}` with `⏎····{·x:·0.51,·y:·0.3·},⏎····{·x:·0.56,·y:·0.22·},⏎····{·x:·0.6,·y:·0.2·},⏎····{·x:·0.62,·y:·0.22·},⏎··`                                                                                                                                                    prettier/prettier
+  249:33  error  Replace `{·x:·0.49,·y:·0.4·},·{·x:·0.3,·y:·0.2·},·{·x:·0.15,·y:·0.32·},·{·x:·0.48,·y:·0.52·}` with `⏎····{·x:·0.49,·y:·0.4·},⏎····{·x:·0.3,·y:·0.2·},⏎····{·x:·0.15,·y:·0.32·},⏎····{·x:·0.48,·y:·0.52·},⏎··`                                                                                                                                                    prettier/prettier
+  250:33  error  Replace `{·x:·0.51,·y:·0.4·},·{·x:·0.7,·y:·0.2·},·{·x:·0.85,·y:·0.32·},·{·x:·0.52,·y:·0.52·}` with `⏎····{·x:·0.51,·y:·0.4·},⏎····{·x:·0.7,·y:·0.2·},⏎····{·x:·0.85,·y:·0.32·},⏎····{·x:·0.52,·y:·0.52·},⏎··`                                                                                                                                                    prettier/prettier
+  253:33  error  Replace `{·x:·0.49,·y:·0.53·},·{·x:·0.22,·y:·0.58·},·{·x:·0.28,·y:·0.75·},·{·x:·0.49,·y:·0.65·}` with `⏎····{·x:·0.49,·y:·0.53·},⏎····{·x:·0.22,·y:·0.58·},⏎····{·x:·0.28,·y:·0.75·},⏎····{·x:·0.49,·y:·0.65·},⏎··`                                                                                                                                              prettier/prettier
+  254:33  error  Replace `{·x:·0.51,·y:·0.53·},·{·x:·0.78,·y:·0.58·},·{·x:·0.72,·y:·0.75·},·{·x:·0.51,·y:·0.65·}` with `⏎····{·x:·0.51,·y:·0.53·},⏎····{·x:·0.78,·y:·0.58·},⏎····{·x:·0.72,·y:·0.75·},⏎····{·x:·0.51,·y:·0.65·},⏎··`                                                                                                                                              prettier/prettier
+  276:30  error  Replace `{·x:·0.5,·y:·0.15·},·{·x:·0.42,·y:·0.35·},·{·x:·0.42,·y:·0.65·},·{·x:·0.42,·y:·0.72·}` with `⏎····{·x:·0.5,·y:·0.15·},⏎····{·x:·0.42,·y:·0.35·},⏎····{·x:·0.42,·y:·0.65·},⏎····{·x:·0.42,·y:·0.72·},⏎··`                                                                                                                                                prettier/prettier
+  277:30  error  Replace `{·x:·0.5,·y:·0.15·},·{·x:·0.58,·y:·0.35·},·{·x:·0.58,·y:·0.65·},·{·x:·0.58,·y:·0.72·}` with `⏎····{·x:·0.5,·y:·0.15·},⏎····{·x:·0.58,·y:·0.35·},⏎····{·x:·0.58,·y:·0.65·},⏎····{·x:·0.58,·y:·0.72·},⏎··`                                                                                                                                                prettier/prettier
+  278:17  error  Replace `{·x:·0.42,·y:·0.72·},·{·x:·0.58,·y:·0.72·}` with `⏎····{·x:·0.42,·y:·0.72·},⏎····{·x:·0.58,·y:·0.72·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  284:17  error  Replace `{·x:·0.42,·y:·0.58·},·{·x:·0.28,·y:·0.76·},·{·x:·0.42,·y:·0.72·}` with `⏎····{·x:·0.42,·y:·0.58·},⏎····{·x:·0.28,·y:·0.76·},⏎····{·x:·0.42,·y:·0.72·},⏎··`                                                                                                                                                                                              prettier/prettier
+  285:17  error  Replace `{·x:·0.58,·y:·0.58·},·{·x:·0.72,·y:·0.76·},·{·x:·0.58,·y:·0.72·}` with `⏎····{·x:·0.58,·y:·0.58·},⏎····{·x:·0.72,·y:·0.76·},⏎····{·x:·0.58,·y:·0.72·},⏎··`                                                                                                                                                                                              prettier/prettier
+  288:35  error  Replace `{·x:·0.44,·y:·0.72·},·{·x:·0.4,·y:·0.88·},·{·x:·0.5,·y:·0.95·},·{·x:·0.56,·y:·0.72·}` with `⏎····{·x:·0.44,·y:·0.72·},⏎····{·x:·0.4,·y:·0.88·},⏎····{·x:·0.5,·y:·0.95·},⏎····{·x:·0.56,·y:·0.72·},⏎··`                                                                                                                                                  prettier/prettier
+  289:35  error  Replace `{·x:·0.47,·y:·0.72·},·{·x:·0.45,·y:·0.84·},·{·x:·0.5,·y:·0.88·},·{·x:·0.53,·y:·0.72·}` with `⏎····{·x:·0.47,·y:·0.72·},⏎····{·x:·0.45,·y:·0.84·},⏎····{·x:·0.5,·y:·0.88·},⏎····{·x:·0.53,·y:·0.72·},⏎··`                                                                                                                                                prettier/prettier
+  321:16  error  Replace `{·x:·0.22,·y:·0.22·},·{·x:·0.28,·y:·0.28·}` with `⏎····{·x:·0.22,·y:·0.22·},⏎····{·x:·0.28,·y:·0.28·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  322:16  error  Replace `{·x:·0.28,·y:·0.22·},·{·x:·0.22,·y:·0.28·}` with `⏎····{·x:·0.28,·y:·0.22·},⏎····{·x:·0.22,·y:·0.28·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  323:16  error  Replace `{·x:·0.72,·y:·0.68·},·{·x:·0.78,·y:·0.74·}` with `⏎····{·x:·0.72,·y:·0.68·},⏎····{·x:·0.78,·y:·0.74·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  324:16  error  Replace `{·x:·0.78,·y:·0.68·},·{·x:·0.72,·y:·0.74·}` with `⏎····{·x:·0.78,·y:·0.68·},⏎····{·x:·0.72,·y:·0.74·},⏎··`                                                                                                                                                                                                                                              prettier/prettier
+  339:29  error  Replace `{·x:·0.2,·y:·0.6·},·{·x:·0.35,·y:·0.25·},·{·x:·0.65,·y:·0.7·},·{·x:·0.8,·y:·0.35·}` with `⏎····{·x:·0.2,·y:·0.6·},⏎····{·x:·0.35,·y:·0.25·},⏎····{·x:·0.65,·y:·0.7·},⏎····{·x:·0.8,·y:·0.35·},⏎··`                                                                                                                                                      prettier/prettier
+  341:17  error  Replace `{·x:·0.76,·y:·0.38·},·{·x:·0.86,·y:·0.3·},·{·x:·0.88,·y:·0.36·},·{·x:·0.82,·y:·0.42·}` with `⏎····{·x:·0.76,·y:·0.38·},⏎····{·x:·0.86,·y:·0.3·},⏎····{·x:·0.88,·y:·0.36·},⏎····{·x:·0.82,·y:·0.42·},⏎··`                                                                                                                                                prettier/prettier
+  343:17  error  Replace `{·x:·0.82,·y:·0.32·},·{·x:·0.88,·y:·0.2·}` with `⏎····{·x:·0.82,·y:·0.32·},⏎····{·x:·0.88,·y:·0.2·},⏎··`                                                                                                                                                                                                                                                prettier/prettier
+  347:30  error  Replace `{·x:·0.5,·y:·0.45·},·{·x:·0.35,·y:·0.2·},·{·x:·0.5,·y:·0.15·},·{·x:·0.55,·y:·0.38·}` with `⏎····{·x:·0.5,·y:·0.45·},⏎····{·x:·0.35,·y:·0.2·},⏎····{·x:·0.5,·y:·0.15·},⏎····{·x:·0.55,·y:·0.38·},⏎··`                                                                                                                                                    prettier/prettier
+  348:30  error  Replace `{·x:·0.55,·y:·0.38·},·{·x:·0.65,·y:·0.15·},·{·x:·0.75,·y:·0.25·},·{·x:·0.62,·y:·0.45·}` with `⏎····{·x:·0.55,·y:·0.38·},⏎····{·x:·0.65,·y:·0.15·},⏎····{·x:·0.75,·y:·0.25·},⏎····{·x:·0.62,·y:·0.45·},⏎··`                                                                                                                                              prettier/prettier
+  350:30  error  Replace `{·x:·0.88,·y:·0.36·},·{·x:·0.94,·y:·0.38·},·{·x:·0.96,·y:·0.46·},·{·x:·0.9,·y:·0.48·}` with `⏎····{·x:·0.88,·y:·0.36·},⏎····{·x:·0.94,·y:·0.38·},⏎····{·x:·0.96,·y:·0.46·},⏎····{·x:·0.9,·y:·0.48·},⏎··`                                                                                                                                                prettier/prettier
+  378:18  error  Replace `createStroke(circlePoints(px,·py,·0.12,·24),·i·%·2·===·0·?·"#ff0077"·:·"#00f0ff",·3)` with `⏎······createStroke(⏎········circlePoints(px,·py,·0.12,·24),⏎········i·%·2·===·0·?·"#ff0077"·:·"#00f0ff",⏎········3,⏎······),⏎····`                                                                                                                         prettier/prettier
+  386:51  error  Replace `prompt:·string` with `⏎··prompt:·string,⏎`                                                                                                                                                                                                                                                                                                              prettier/prettier
+  447:34  error  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+  451:71  error  Insert `⏎············`                                                                                                                                                                                                                                                                                                                                           prettier/prettier
+  451:76  error  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+  452:1   error  Insert `··`                                                                                                                                                                                                                                                                                                                                                      prettier/prettier
+  453:13  error  Insert `··`                                                                                                                                                                                                                                                                                                                                                      prettier/prettier
+  454:1   error  Insert `··`                                                                                                                                                                                                                                                                                                                                                      prettier/prettier
+  455:13  error  Insert `··`                                                                                                                                                                                                                                                                                                                                                      prettier/prettier
+  456:1   error  Insert `··`                                                                                                                                                                                                                                                                                                                                                      prettier/prettier
+  457:11  error  Replace `})` with `··}),⏎··········`                                                                                                                                                                                                                                                                                                                             prettier/prettier
+  493:13  error  Replace `·strokes:·generateCatStrokes(),·title:·"Gatinho·Neon",·source:·"local"` with `⏎······strokes:·generateCatStrokes(),⏎······title:·"Gatinho·Neon",⏎······source:·"local",⏎···`                                                                                                                                                                            prettier/prettier
+  496:13  error  Replace `·strokes:·generateHeartStrokes(),·title:·"Coração·com·Asas",·source:·"local"` with `⏎······strokes:·generateHeartStrokes(),⏎······title:·"Coração·com·Asas",⏎······source:·"local",⏎···`                                                                                                                                                                prettier/prettier
+  499:13  error  Replace `·strokes:·generateDragonStrokes(),·title:·"Dragão·Cyberpunk",·source:·"local"` with `⏎······strokes:·generateDragonStrokes(),⏎······title:·"Dragão·Cyberpunk",⏎······source:·"local",⏎···`                                                                                                                                                              prettier/prettier
+  502:13  error  Replace `·strokes:·generateSwordStrokes(),·title:·"Espada·Futurista",·source:·"local"` with `⏎······strokes:·generateSwordStrokes(),⏎······title:·"Espada·Futurista",⏎······source:·"local",⏎···`                                                                                                                                                                prettier/prettier
+  505:13  error  Replace `·strokes:·generateFlowerStrokes(),·title:·"Flor·Radiante",·source:·"local"` with `⏎······strokes:·generateFlowerStrokes(),⏎······title:·"Flor·Radiante",⏎······source:·"local",⏎···`                                                                                                                                                                    prettier/prettier
+  508:13  error  Replace `·strokes:·generateCarStrokes(),·title:·"Carro·Esportivo",·source:·"local"` with `⏎······strokes:·generateCarStrokes(),⏎······title:·"Carro·Esportivo",⏎······source:·"local",⏎···`                                                                                                                                                                      prettier/prettier
+  511:13  error  Replace `·strokes:·generateButterflyStrokes(),·title:·"Borboleta·Neon",·source:·"local"` with `⏎······strokes:·generateButterflyStrokes(),⏎······title:·"Borboleta·Neon",⏎······source:·"local",⏎···`                                                                                                                                                            prettier/prettier
+  514:13  error  Replace `·strokes:·generateRocketStrokes(),·title:·"Foguete·Espacial",·source:·"local"` with `⏎······strokes:·generateRocketStrokes(),⏎······title:·"Foguete·Espacial",⏎······source:·"local",⏎···`                                                                                                                                                              prettier/prettier
+  516:7   error  Replace `/(estrela|star|constelacao|constelação|astro|galaxia|galáxia)/i.test(query)` with `⏎····/(estrela|star|constelacao|constelação|astro|galaxia|galáxia)/i.test(query)⏎··`                                                                                                                                                                                 prettier/prettier
+  517:13  error  Replace `·strokes:·generateStarStrokes(),·title:·"Estrela·Cósmica",·source:·"local"` with `⏎······strokes:·generateStarStrokes(),⏎······title:·"Estrela·Cósmica",⏎······source:·"local",⏎···`                                                                                                                                                                    prettier/prettier
+  521:11  error  Replace `·strokes:·generateMandalaStrokes(),·title:·"Mandala·Neon",·source:·"local"` with `⏎····strokes:·generateMandalaStrokes(),⏎····title:·"Mandala·Neon",⏎····source:·"local",⏎·`                                                                                                                                                                            prettier/prettier
+
+F:\AirDraw\src\lib\airdraw\airdraw.test.ts
+  208:8  error  Replace `·id:·"gen1",·color:·"#00f0ff",·size:·4,·points:·[{·x:·0.2,·y:·0.2,·z:·0,·p:·1·}]` with `⏎········id:·"gen1",⏎········color:·"#00f0ff",⏎········size:·4,⏎········points:·[{·x:·0.2,·y:·0.2,·z:·0,·p:·1·}],⏎·····`  prettier/prettier
+  209:8  error  Replace `·id:·"gen2",·color:·"#ff0055",·size:·4,·points:·[{·x:·0.4,·y:·0.4,·z:·0,·p:·1·}]` with `⏎········id:·"gen2",⏎········color:·"#ff0055",⏎········size:·4,⏎········points:·[{·x:·0.4,·y:·0.4,·z:·0,·p:·1·}],⏎·····`  prettier/prettier
+  227:8  error  Replace `·id:·"rep1",·color:·"#ffd700",·size:·6,·points:·[{·x:·0.5,·y:·0.5,·z:·0,·p:·1·}]` with `⏎········id:·"rep1",⏎········color:·"#ffd700",⏎········size:·6,⏎········points:·[{·x:·0.5,·y:·0.5,·z:·0,·p:·1·}],⏎·····`  prettier/prettier
+
+F:\AirDraw\src\lib\airdraw\gemini.ts
+  390:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+F:\AirDraw\src\lib\airdraw\render.ts
+    1:39  error  Delete `␍`    prettier/prettier
+    2:1   error  Delete `␍`    prettier/prettier
+    3:63  error  Delete `␍`    prettier/prettier
+    4:30  error  Delete `␍`    prettier/prettier
+    5:17  error  Delete `␍`    prettier/prettier
+    6:31  error  Delete `␍`    prettier/prettier
+    7:22  error  Delete `␍`    prettier/prettier
+    8:3   error  Delete `␍`    prettier/prettier
+    9:1   error  Delete `␍`    prettier/prettier
+   10:20  error  Delete `␍`    prettier/prettier
+   11:33  error  Delete `␍`    prettier/prettier
+   12:35  error  Delete `␍`    prettier/prettier
+   13:4   error  Delete `␍`    prettier/prettier
+   14:19  error  Delete `␍`    prettier/prettier
+   15:36  error  Delete `␍`    prettier/prettier
+   16:45  error  Delete `␍`    prettier/prettier
+   17:23  error  Delete `␍`    prettier/prettier
+   18:27  error  Delete `␍`    prettier/prettier
+   19:70  error  Delete `␍`    prettier/prettier
+   20:4   error  Delete `␍`    prettier/prettier
+   21:37  error  Delete `␍`    prettier/prettier
+   22:30  error  Delete `␍`    prettier/prettier
+   23:2   error  Delete `␍`    prettier/prettier
+   24:1   error  Delete `␍`    prettier/prettier
+   25:84  error  Delete `␍`    prettier/prettier
+   26:31  error  Delete `␍`    prettier/prettier
+   27:33  error  Delete `␍`    prettier/prettier
+   28:21  error  Delete `␍`    prettier/prettier
+   29:13  error  Delete `␍`    prettier/prettier
+   30:13  error  Delete `␍`    prettier/prettier
+   31:47  error  Delete `␍`    prettier/prettier
+   32:4   error  Delete `␍`    prettier/prettier
+   33:25  error  Delete `␍`    prettier/prettier
+   34:26  error  Delete `␍`    prettier/prettier
+   35:29  error  Delete `␍`    prettier/prettier
+   36:36  error  Delete `␍`    prettier/prettier
+   37:75  error  Delete `␍`    prettier/prettier
+   38:1   error  Delete `␍`    prettier/prettier
+   39:28  error  Delete `␍`    prettier/prettier
+   40:18  error  Delete `␍`    prettier/prettier
+   41:18  error  Delete `␍`    prettier/prettier
+   42:35  error  Delete `␍`    prettier/prettier
+   43:37  error  Delete `␍`    prettier/prettier
+   44:8   error  Delete `␍`    prettier/prettier
+   45:31  error  Delete `␍`    prettier/prettier
+   46:23  error  Delete `␍`    prettier/prettier
+   47:65  error  Delete `␍`    prettier/prettier
+   48:18  error  Delete `␍`    prettier/prettier
+   49:21  error  Delete `␍`    prettier/prettier
+   50:16  error  Delete `␍`    prettier/prettier
+   51:6   error  Delete `␍`    prettier/prettier
+   52:1   error  Delete `␍`    prettier/prettier
+   53:32  error  Delete `␍`    prettier/prettier
+   54:18  error  Delete `␍`    prettier/prettier
+   55:41  error  Delete `␍`    prettier/prettier
+   56:41  error  Delete `␍`    prettier/prettier
+   57:27  error  Delete `␍`    prettier/prettier
+   58:20  error  Delete `␍`    prettier/prettier
+   59:21  error  Delete `␍`    prettier/prettier
+   60:6   error  Delete `␍`    prettier/prettier
+   61:1   error  Delete `␍`    prettier/prettier
+   62:16  error  Delete `␍`    prettier/prettier
+   63:18  error  Delete `␍`    prettier/prettier
+   64:33  error  Delete `␍`    prettier/prettier
+   65:37  error  Delete `␍`    prettier/prettier
+   66:33  error  Delete `␍`    prettier/prettier
+   67:30  error  Delete `␍`    prettier/prettier
+   68:30  error  Delete `␍`    prettier/prettier
+   69:27  error  Delete `␍`    prettier/prettier
+   70:20  error  Delete `␍`    prettier/prettier
+   71:21  error  Delete `␍`    prettier/prettier
+   72:6   error  Delete `␍`    prettier/prettier
+   73:1   error  Delete `␍`    prettier/prettier
+   74:50  error  Delete `␍`    prettier/prettier
+   75:16  error  Delete `␍`    prettier/prettier
+   76:31  error  Delete `␍`    prettier/prettier
+   77:43  error  Delete `␍`    prettier/prettier
+   78:29  error  Delete `␍`    prettier/prettier
+   79:25  error  Delete `␍`    prettier/prettier
+   80:50  error  Delete `␍`    prettier/prettier
+   81:23  error  Delete `␍`    prettier/prettier
+   82:28  error  Delete `␍`    prettier/prettier
+   83:28  error  Delete `␍`    prettier/prettier
+   84:20  error  Delete `␍`    prettier/prettier
+   85:6   error  Delete `␍`    prettier/prettier
+   86:19  error  Delete `␍`    prettier/prettier
+   87:1   error  Delete `␍`    prettier/prettier
+   88:16  error  Delete `␍`    prettier/prettier
+   89:18  error  Delete `␍`    prettier/prettier
+   90:36  error  Delete `␍`    prettier/prettier
+   91:30  error  Delete `␍`    prettier/prettier
+   92:50  error  Delete `␍`    prettier/prettier
+   93:27  error  Delete `␍`    prettier/prettier
+   94:20  error  Delete `␍`    prettier/prettier
+   95:21  error  Delete `␍`    prettier/prettier
+   96:6   error  Delete `␍`    prettier/prettier
+   97:4   error  Delete `␍`    prettier/prettier
+   98:2   error  Delete `␍`    prettier/prettier
+   99:1   error  Delete `␍`    prettier/prettier
+  100:83  error  Delete `␍`    prettier/prettier
+  101:55  error  Delete `␍`    prettier/prettier
+  102:46  error  Delete `␍`    prettier/prettier
+  103:26  error  Delete `␍`    prettier/prettier
+  104:34  error  Delete `␍`    prettier/prettier
+  105:30  error  Delete `␍`    prettier/prettier
+  106:25  error  Delete `␍`    prettier/prettier
+  107:28  error  Delete `␍`    prettier/prettier
+  108:67  error  Delete `␍`    prettier/prettier
+  109:79  error  Delete `␍`    prettier/prettier
+  110:2   error  Delete `␍`    prettier/prettier
+  111:1   error  Delete `␍`    prettier/prettier
+  112:51  error  Delete `␍`    prettier/prettier
+  113:52  error  Delete `␍`    prettier/prettier
+  114:28  error  Delete `␍`    prettier/prettier
+  115:13  error  Delete `␍`    prettier/prettier
+  116:2   error  Delete `␍`    prettier/prettier
+  117:1   error  Delete `␍`    prettier/prettier
+  118:50  error  Delete `␍`    prettier/prettier
+  119:54  error  Delete `␍`    prettier/prettier
+  120:10  error  Delete `␍`    prettier/prettier
+  121:10  error  Delete `␍`    prettier/prettier
+  122:10  error  Delete `␍`    prettier/prettier
+  123:10  error  Delete `␍`    prettier/prettier
+  124:10  error  Delete `␍`    prettier/prettier
+  125:10  error  Delete `␍`    prettier/prettier
+  126:10  error  Delete `␍`    prettier/prettier
+  127:10  error  Delete `␍`    prettier/prettier
+  128:10  error  Delete `␍`    prettier/prettier
+  129:11  error  Delete `␍`    prettier/prettier
+  130:12  error  Delete `␍`    prettier/prettier
+  131:12  error  Delete `␍`    prettier/prettier
+  132:11  error  Delete `␍`    prettier/prettier
+  133:12  error  Delete `␍`    prettier/prettier
+  134:12  error  Delete `␍`    prettier/prettier
+  135:12  error  Delete `␍`    prettier/prettier
+  136:12  error  Delete `␍`    prettier/prettier
+  137:11  error  Delete `␍`    prettier/prettier
+  138:12  error  Delete `␍`    prettier/prettier
+  139:12  error  Delete `␍`    prettier/prettier
+  140:12  error  Delete `␍`    prettier/prettier
+  141:3   error  Delete `␍`    prettier/prettier
+  142:39  error  Delete `␍`    prettier/prettier
+  143:1   error  Delete `␍`    prettier/prettier
+  144:89  error  Delete `␍`    prettier/prettier
+  145:29  error  Delete `␍`    prettier/prettier
+  146:33  error  Delete `␍`    prettier/prettier
+  147:66  error  Delete `␍`    prettier/prettier
+  148:4   error  Delete `␍`    prettier/prettier
+  149:25  error  Delete `␍`    prettier/prettier
+  150:43  error  Delete `␍`    prettier/prettier
+  151:29  error  Delete `␍`    prettier/prettier
+  152:27  error  Delete `␍`    prettier/prettier
+  153:28  error  Delete `␍`    prettier/prettier
+  154:23  error  Delete `␍`    prettier/prettier
+  155:21  error  Delete `␍`    prettier/prettier
+  156:45  error  Delete `␍`    prettier/prettier
+  157:28  error  Delete `␍`    prettier/prettier
+  158:28  error  Delete `␍`    prettier/prettier
+  159:32  error  Delete `␍`    prettier/prettier
+  160:30  error  Delete `␍`    prettier/prettier
+  161:30  error  Delete `␍`    prettier/prettier
+  162:6   error  Delete `␍`    prettier/prettier
+  163:18  error  Delete `␍`    prettier/prettier
+  164:27  error  Delete `␍`    prettier/prettier
+  165:34  error  Delete `␍`    prettier/prettier
+  166:27  error  Delete `␍`    prettier/prettier
+  167:24  error  Delete `␍`    prettier/prettier
+  168:23  error  Delete `␍`    prettier/prettier
+  169:58  error  Delete `␍`    prettier/prettier
+  170:21  error  Delete `␍`    prettier/prettier
+  171:27  error  Delete `␍`    prettier/prettier
+  172:22  error  Delete `␍`    prettier/prettier
+  173:25  error  Delete `␍`    prettier/prettier
+  174:6   error  Delete `␍`    prettier/prettier
+  175:4   error  Delete `␍`    prettier/prettier
+  176:23  error  Delete `␍`    prettier/prettier
+  177:2   error  Delete `␍⏎␍`  prettier/prettier
+
+✖ 270 problems (263 errors, 7 warnings)
+  260 errors and 0 warnings potentially fixable with the `--fix` option.
+
